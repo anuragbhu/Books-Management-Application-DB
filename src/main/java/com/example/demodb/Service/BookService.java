@@ -4,7 +4,6 @@ import com.example.demodb.Model.Book;
 import com.example.demodb.Repository.DBOperations;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-import org.springframework.web.bind.annotation.PathVariable;
 
 import java.sql.SQLException;
 import java.util.List;
